@@ -5,7 +5,7 @@ import React, { useEffect, useState } from 'react'
 const StoryScreen = () => {
   const [lastMsg, setLastMsg] = useState("No message yet.")
   let listenerRef = null
-  let data = { username: "nfr_products", password: "D1rh4123" }
+  let data = { username: "nfr_products", password: "hello123" }
 
   useEffect(() => {
 
