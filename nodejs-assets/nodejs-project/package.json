@@ -1,0 +1,17 @@
+{
+  "//": [
+    "Rename this sample file to package.json to use on your project.",
+    "The sample-package.json file will be overwritten in updates/reinstalls."
+  ],
+  "name": "node-project",
+  "version": "0.0.1",
+  "description": "node part of the project",
+  "main": "main.js",
+  "author": "janeasystems",
+  "license": "",
+  "dependencies": {
+    "instagram-private-api": "^1.45.3",
+    "nodemon": "^2.0.19",
+    "rn-bridge": "^1.0.0"
+  }
+}
